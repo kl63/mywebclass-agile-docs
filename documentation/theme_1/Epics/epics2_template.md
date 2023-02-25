@@ -42,4 +42,4 @@ the efficiency and quality of software development. It should be done early in t
 all subsequent builds are consistent and reliable.
 
 # List stories related to this theme
-1. [Story 1][Story 2](documentation/theme_1/Story/story2_template.md)
+1. [Story 2](../Story/story2_template.md)
