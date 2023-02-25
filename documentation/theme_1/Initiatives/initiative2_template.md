@@ -62,4 +62,4 @@ specifications of the monitoring solution. They ensure that the solution aligns 
 requirements, and standards, and that it integrates with the existing systems and tools.
 
 # List epics related to this theme
-1. [Define monitoring requirements](../theme_1/initiatives/epics3_template.md)
+1. [Define monitoring requirements](documentation/theme_1/Epics/epics3_template.md)

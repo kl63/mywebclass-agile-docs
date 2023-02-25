@@ -8,5 +8,5 @@ You can fill in the placeholders with your own information to create a complete 
 
 
 # List initiatives related to this theme
-1. [Implement infrastructure automation](../theme_1/initiative1_template.md)
-2. [Implement a monitoring solution](../theme_1/initiatives/initiative2_template.md)
+1. [Implement infrastructure automation](documentation/theme_1/Initiatives/initiative1_template.md)
+2. [Implement a monitoring solution](documentation/theme_1/Initiatives/initiative2_template.md)
