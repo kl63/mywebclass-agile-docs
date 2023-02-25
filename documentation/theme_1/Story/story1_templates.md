@@ -12,5 +12,4 @@ software code.
 life cycle and the DevOps principles.
 
 
-# List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.) 
+ 
