@@ -39,4 +39,4 @@ Priority:
 and the potential impact on development time, quality, and efficiency.
 
 # List stories related to this theme
-1. [Story 1](documentation/theme_1/Story/story1_templates.md)
+1. [Story 1](../Story/story1_templates.md)
