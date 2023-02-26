@@ -2,8 +2,8 @@
 
 Description: 
 - The objective of this initiative is to improve the loading speed of the mobile app by optimizing the app's code 
-- and reducing load times for all features and content. This will be achieved by conducting an analysis of the app's 
-- performance and implementing performance optimizations to reduce load times and improve user experience.
+and reducing load times for all features and content. This will be achieved by conducting an analysis of the app's 
+performance and implementing performance optimizations to reduce load times and improve user experience.
 
 Goals: 
 - Increase user retention and loyalty by reducing user frustration with slow loading times
