@@ -11,7 +11,7 @@ Goals:
 
 User Stories: 
 - As a user, I want to be able to navigate the app easily and intuitively, without having to spend time learning how
-to use it
+to use it.
 
 Dependencies: 
 - User research and feedback gathering to identify areas of improvement
