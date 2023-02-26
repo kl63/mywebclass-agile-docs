@@ -77,5 +77,5 @@ deployment process to ensure that it meets quality standards and performance req
 - infrastructure, tools, and processes that support the build and deployment process.
 
 # List epics related to this theme
-1. [Define the Build Process](../Epics/epics1_template.md)
-2. [Create Automated Build Scripts](../Epics/epics2_template.md)
+1. [Define the Build Process](../Epics/Epics_1_DevOps.md)
+2. [Create Automated Build Scripts](../Epics/Epics_2_DevOps.md)

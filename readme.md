@@ -111,7 +111,7 @@ business processes to provide realistic scenarios for students to learn technolo
 
 ### Templates - Modify these as necessary
 
-* [Theme Template](documentation/theme_1/theme1_template.md)
+* [Theme Template](documentation/Theme: DevOps/Theme_1_Devops.md)
 * [Initiative Template](documentation/templates/theme/initiatives/initiative_template.md)
 * [Epic Template](documentation/templates/theme/initiatives/epics/epic_template.md)
 * [User Story](documentation/templates/theme/initiatives/epics/stories/story_template.md)
@@ -132,7 +132,7 @@ At this juncture, the efficacy of the documentation is measured by how well it e
 review this effectiveness before the next iteration of the project.
 # Your  plan should replace the content below
 
-[Project Setup](documentation/theme_1/theme_project_setup.md)
+[Project Setup](documentation/Theme: DevOps/theme_project_setup.md)
 
 ## Release Schedule
 
