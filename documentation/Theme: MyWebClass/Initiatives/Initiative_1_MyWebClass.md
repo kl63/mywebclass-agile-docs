@@ -56,4 +56,3 @@ Team:
 
 # List epics related to this theme
 1. [Implement Google Analytics ](../Epics/Epics_1_MyWebClass.md)
-2. [Conduct a technical audit](../Epics/Epics_2_MyWebClass.md)
