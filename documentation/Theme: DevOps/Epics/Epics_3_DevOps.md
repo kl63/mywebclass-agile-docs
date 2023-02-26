@@ -33,4 +33,4 @@ Priority:
 - High, as monitoring is critical for ensuring the reliability and availability of the system.
 
 # List stories related to this theme
-1. [Story 3](../Story/story3_template.md)
+1. [Story 3](../Stories/Story_3_DevOps.md)
