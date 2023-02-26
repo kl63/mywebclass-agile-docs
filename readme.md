@@ -135,7 +135,7 @@ review this effectiveness before the next iteration of the project.
 * [Theme 1: DevOps](documentation/Theme:DevOps/Theme_1_Devops.md)
 * [Theme 2: Planning](documentation/Theme:Planning/Theme_2_Planning.md)
 * [Theme 3: MyWebClass](documentation/Theme:Planning/Theme_3_MyWebClass.md)
-* [Testing](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+* [Testing](https://github.com/kl63/mywebclass-agile-docs/blob/main/documentation/Theme:%20DevOps/Theme_1_Devops.md)
 
 
 
