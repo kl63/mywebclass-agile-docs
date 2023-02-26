@@ -133,7 +133,7 @@ review this effectiveness before the next iteration of the project.
 # Your  plan should replace the content below
 
 * [Theme 1: DevOps](documentation/Theme: DevOps/Theme_1_Devops.md)
-* [Theme 2: DevOps](documentation/Theme:Planning/Theme_2_Planning.md)
+* [Theme 2: DevOps](documentation/Theme: Planning/Theme_2_Planning.md)
 * [Theme 3: DevOps](documentation/Theme: MyWebClass/Theme_3_MyWebClass.md)
 
 
