@@ -40,3 +40,8 @@ and the potential impact on development time, quality, and efficiency.
 
 # List stories related to this theme
 1. [Story 1](../Stories/Story_1_DevOps.md)
+
+
+
+
+

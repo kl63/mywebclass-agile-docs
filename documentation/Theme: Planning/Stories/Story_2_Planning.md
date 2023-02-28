@@ -8,6 +8,8 @@ Acceptance Criteria:
 fixed.
 - The app should not experience any unplanned downtime or service interruptions, and any planned maintenance or 
 updates should be communicated to users in advance.
-- User data and information should be consistently and reliably stored and retrieved, without any data loss or 
+- User data and information should be consistently and reliably stored and retrieved, without any data loss or
 corruption.
+
+
 

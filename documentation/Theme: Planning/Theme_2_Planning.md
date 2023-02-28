@@ -9,3 +9,4 @@ You can fill in the placeholders with your own information to create a complete 
 # List initiatives related to this theme
 1. [ Improve App Performance](./Initiatives/Initiative_1_Planning.md)
 2. [ Enhance App Design and Usability](./Initiatives/Initiative_2_Planning.md)
+

@@ -7,4 +7,6 @@ Acceptance Criteria:
 - App loading time should not exceed 5 seconds even when the user has a weak network connection.
 - The app's loading progress should be displayed to the user during the loading process.
 - The app's interface should be responsive and functional while loading.
+
+
  
