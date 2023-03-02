@@ -7,3 +7,4 @@ You can fill in the placeholders with your own information to create a complete 
 
 # List initiatives related to this theme
 1. [Implement Google Analytics and On-Page SEO](./Initiatives/Initiative_1_MyWebClass.md)
+
